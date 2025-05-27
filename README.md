@@ -78,6 +78,23 @@ This project is a Node.js Express backend that allows you to upload a CSV file, 
   }
   ```
 
+## Demo
+
+### 1. CSV Upload API
+
+![CSV Upload API](demo/upload_csv.png)
+
+### 2. Age Distribution API Output
+
+![Age Distribution Output](demo/age_group.png)
+
+![Age Distribution Output2](demo/age_group2.png)
+
+### 3. Database Table View
+
+![Database Table View](demo/db_table.png)
+
+
 ## Notes
 - All extra fields in the CSV (not part of name, age, or address) are stored in the `additional_info` column as JSON.
 - The `uploads/` directory is auto-created if it does not exist.
