@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,bloodGroup
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male,A-
+John,Doe,25,123 Main St,Apt 4B,New York,NY,male,O+
+Sarah,Smith,42,456 Park Ave,Suite 789,Chicago,IL,female,O+
+Alice,Johnson,19,789 Oak Road,Building C,Boston,MA,female,O-
+Robert,Williams,65,321 Pine Street,Floor 2,Miami,FL,male,B+
